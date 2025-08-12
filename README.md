@@ -14,27 +14,7 @@ Cám ơn bạn rất nhiều! 💛
 ## Tác giả
 - Dương Đình Trung - ChickenAI Team
 
-## Hướng dẫn cài đặt node này:
-
-**Community Nodes (Khuyến nghị)**
-
-Đối với người dùng n8n v0.187+, bạn có thể cài đặt node này trực tiếp từ bảng Community Nodes trong trình soạn thảo n8n.
-
-1.  Mở trình soạn thảo n8n của bạn.
-2.  Vào Settings > Community Nodes.
-3.  Tìm kiếm "n8n-nodes-zalo-tools".
-4.  Nhấp vào Install.
-5.  Tải lại trình soạn thảo.
-
-**Cài đặt thủ công**
-
-Bạn cũng có thể cài đặt node này theo cách thủ công:
-
-```
-cd YOUR_N8N_INSTALLATION_DIRECTORY
-npm install n8n-nodes-zalo-tools
-```
-
+ 
 ## Available Nodes
 
 1. Zalo Login By QR
