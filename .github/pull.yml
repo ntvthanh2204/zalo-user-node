@@ -1,0 +1,12 @@
+version: "1"
+rules:
+  - base: dev
+    upstream: nguyenngothuong:dev
+    mergeMethod: merge
+    mergeUnstableBaseBranch: false
+    assignees:
+      - YOUR_USERNAME  # Thay YOUR_USERNAME bằng username GitHub của bạn
+    reviewers: []
+    conflictReviewers: []
+    label: "upstream-sync"
+    conflictLabel: "upstream-conflict"
